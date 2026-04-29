@@ -47,25 +47,6 @@ Greenland maintains consistently elevated depression rates across all years. Mor
 
 ---
 
-## 📂 Project Structure
-country-mental-health-analysis/
-│
-├── data/
-│ ├── raw/
-│ └── processed/
-│
-├── scripts/
-│
-├── images/
-│ ├── global_depression_top10.png
-│ └── depression_trends_top3.png
-│
-├── sql/
-│ └── mental_health_analysis.sql
-│
-└── README.md
----
-
 ## 🧾 SQL Example
 
 ```sql

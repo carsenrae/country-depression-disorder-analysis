@@ -57,3 +57,11 @@ FROM mental_health_clean
 GROUP BY Entity
 ORDER BY avg_depression DESC
 LIMIT 10;
+
+---
+
+## 📓 Notes
+
+For a detailed breakdown of the data processing workflow, see:
+
+[Workflow Notes](workflow_notes.md)
